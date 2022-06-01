@@ -6,3 +6,4 @@ make sure to use the full file path
 will create FLV, MP4, and WEBM files.
 only works on windows 
 ffmpeg and handbrake cli required, along with python
+just make sure to change the path that launches handbrake or whatever idk
